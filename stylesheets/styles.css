@@ -158,4 +158,13 @@ body {
     margin-top: 2em;
   }
 }
+.nextprev {
+  display: inline-block;
+  font-size: 10em;
+  padding: 10px 16px;
+  text-decoration: none;
+}
 
+.buttonColor {
+  color: black;
+}
